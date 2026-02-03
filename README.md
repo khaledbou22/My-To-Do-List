@@ -1,5 +1,5 @@
 
-#  My To-Do List App
+#  🌟 Animated  To-Do List App
 
 A clean and functional **To-Do List application** built using **pure HTML, CSS, and JavaScript**.  
 This project focuses on core JavaScript logic, DOM manipulation, and user interaction — without any frameworks or external dependencies.
